@@ -49,7 +49,7 @@ header a:hover {
   color: rgb(111,127,122);
 }
 #featured-image img {
-  border: 5px rgb(152,173,166);
+  border: 5px rgb(152,173,166) solid;
 }
 #featured a {
   text-decoration: none;

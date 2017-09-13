@@ -48,7 +48,7 @@ header a {
 header a:hover {
   color: rgb(111,127,122);
 }
-#featured-image {
+#featured-image img {
   border: 5px rgb(152,173,166);
 }
 #featured a {
@@ -56,4 +56,11 @@ header a:hover {
 }
 #featured a:hover {
   text-decoration: underline;
+}
+#press {
+  margin-bottom: 20px;
+}
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
 }

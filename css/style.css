@@ -54,3 +54,6 @@ header a:hover {
 #featured a {
   text-decoration: none;
 }
+#featured a:hover {
+  text-decoration: underline;
+}

@@ -29,3 +29,7 @@ h1  {
   font-family: 'Libre Baskerville' serif;
   border-bottom: 1px solid #ccc;
 }
+h2 {
+  color: #555;
+  font-size: 2em;
+}
